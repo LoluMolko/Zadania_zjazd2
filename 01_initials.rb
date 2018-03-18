@@ -5,6 +5,6 @@ def initials(full_name)
   puts result
 end
 
-initials('Jan Kozlowski')
-initials('Jan Krzysztof Rakoczy')
-initials('marcin nowak')
+initials('Jan Kozlowski') #=> JK
+initials('Jan Krzysztof Rakoczy') #=> JK
+initials('marcin nowak') #=> JK
